@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to web development  
   
 
-- ⚡ Fun fact: I'm also a multimedia person, like using Figma, Photoshop, and Premiere Pro
+- ⚡ Fun fact: I'm also a multimedia editor person, like using Figma & Photoshop for photos and mockups, and Premiere Pro & After Effects for videos
   
 
 <br/>  
