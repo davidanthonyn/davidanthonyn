@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Calon Teknik Sipil Web Article](https://calontekniksipil.com)  
   
 
-- 🌱 I’m currently learning React and Flutter  
+- 🌱 I’m currently learning React, Flutter, and Go
   
 
 - ❓ Ask me about anything related to web development  
