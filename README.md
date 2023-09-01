@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to web development  
   
 
-- ⚡ Fun fact: I use a lot tabs for indentations  
+- ⚡ Fun fact: I'm also a multimedia person, like using Figma, Photoshop, and Premiere Pro
   
 
 <br/>  
