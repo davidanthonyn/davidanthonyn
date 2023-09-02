@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm David, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="center">I'm David, a freelance web developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
 - 🔭 I’m currently working on [Calon Teknik Sipil Web Article](https://calontekniksipil.com)  
