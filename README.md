@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning React, Flutter, and Go
   
 
-- ❓ Ask me about anything related to web development  
+- 🖼️ Check my own [profile website](https://davidanthony.dev)  !
   
 
 - ⚡ Fun fact: I'm also a multimedia editor person, like using Figma & Photoshop for photos and mockups, and Premiere Pro & After Effects for videos
